@@ -22,8 +22,8 @@ token_lock = Lock()
 verification_codes = {}
 
 # SMTP配置（需替换为实际值）
-SMTP_SENDER = 'zty192168@163.com'
-SMTP_PASSWORD = 'ETgmS7w3Wtt3D6ri'  # SMTP授权码
+SMTP_SENDER = ''
+SMTP_PASSWORD = ''  # SMTP授权码
 SMTP_SERVER = 'smtp.163.com'
 SMTP_PORT = 465
 
